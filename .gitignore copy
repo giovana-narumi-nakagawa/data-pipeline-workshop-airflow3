@@ -1,0 +1,26 @@
+# Environment variables
+.env
+
+# Docker volumes
+pgdata/
+
+# Logs
+logs/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
